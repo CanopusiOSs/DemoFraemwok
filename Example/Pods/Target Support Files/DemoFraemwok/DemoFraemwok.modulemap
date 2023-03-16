@@ -1,0 +1,6 @@
+framework module DemoFraemwok {
+  umbrella header "DemoFraemwok-umbrella.h"
+
+  export *
+  module * { export * }
+}

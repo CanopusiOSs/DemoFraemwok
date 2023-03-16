@@ -1,0 +1,16 @@
+PODS:
+  - DemoFraemwok (0.1.0)
+
+DEPENDENCIES:
+  - DemoFraemwok (from `../`)
+
+EXTERNAL SOURCES:
+  DemoFraemwok:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DemoFraemwok: ca64c741ff947a762d3c1213d95f39c8213c6996
+
+PODFILE CHECKSUM: e443b9b8e8a3324dfb4b5ef909d026eefb58b2e6
+
+COCOAPODS: 1.11.3
